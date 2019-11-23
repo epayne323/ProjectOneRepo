@@ -15,6 +15,18 @@ tags: []
 2. In these areas, what are the impacts with regards to health, drunk-driving, etc.?
 3. What are the impacts with regards to housing prices?
 
+
+Summary of analysis:
+
+- With the data available and time constraints, there are many questions still to be answered to feel confident in the direct nature of the wine growth in the US and the influences it may carry in the local communities.
+- Of our findings, our most certain is that wine continues to grow in various regions of the country and shows no sign of slowing down based on consumption rates.
+- Some surprising data came from our crash reviews having a reversed correlation and warrant further investigations to see how much the state versus specific county data may differ.
+- As for the locations and impact both income and affordability, we found that at a state level there was not enough information to specifically tie to wine production.  This is borne out of two reasons:
+    - Many of the states reviewed are generally considered tourist destinations for other reasons such as climate, landmarks, etc.  A deeper review of city/county data will bring more certainty to the direct connection in those regions where wine is produced than state views.
+    - Affordability is also directly impacted by other local economic factors and some of our more expensive regions are believed to be more so tied to political, job market and other issues of socioeconomic norms than the wine consumption can address.
+
+
+References:
 [County Level Housing Data](https://reports.nlihc.org/oor/2018)
 
 [Zillow Economics Data](https://www.kaggle.com/zillow/zecon)
